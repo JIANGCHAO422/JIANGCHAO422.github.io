@@ -1,0 +1,50 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>JiangChao's Self-Introduction</title>  
+    <style>  
+        body {  
+            font-family: Arial, sans-serif;  
+            margin: 0;  
+            padding: 0;  
+        }  
+        header {  
+            background-color: #333;  
+            color: #fff;  
+            padding: 10px;  
+            text-align: center;  
+        }  
+        main {  
+            padding: 20px;  
+        }  
+    </style>  
+</head>  
+<body>  
+    <header>  
+        <h1>JiangChao's Self-Introduction</h1>  
+    </header>  
+    <main>  
+        <h2>Work Experience</h2>  
+        <p>Dties | King Yonghe</p>  
+        <p>2022.7-2022.8</p>  
+        <p>As a member of the kitchen, cook and serve meals.</p>  
+        <h2>Education</h2>  
+        <p>Academic degree | Wuxi TaiHu University</p>  
+        <p>2022-2025</p>  
+        <p>I studied computer science and learned a lot of English.</p>  
+        <h2>Hobbies</h2>  
+        <p>I have a lot of hobbies, ranging from rational programming and games to emotional outdoor activities and drawing. I think these hobbies have made me more perfect and have allowed me to understand myself better. I'm looking forward to sharing more about my hobby with you in the future.</p>  
+        <h2>Advantage</h2>  
+        <p>As a college student, my strength lies in my diverse interests and hobbies. I enjoy challenging myself, trying new things, and being passionate about learning new skills. I believe that these advantages will help me achieve success in my future studies and life.</p>  
+        <h2>Skills</h2>  
+        <ul>  
+            <li>English</li>  
+            <li>HTML</li>  
+            <li>CSS</li>  
+            <li>JavaScript</li>  
+        </ul>  
+    </main>  
+</body>  
+</html>
